@@ -10,7 +10,8 @@ const App: React.FC = () => {
       content: 'This is a prompt message with custom className and style',
       className: 'custom-class',
       style: {
-        marginTop: '20vh',
+        marginBottom: '20vh',
+        marginLeft:'20vh'
       },
     });
   };
